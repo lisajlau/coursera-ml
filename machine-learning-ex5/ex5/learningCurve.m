@@ -54,11 +54,11 @@ error_val   = zeros(m, 1);
 % ---------------------- Sample Solution ----------------------
 
 
-%size(X) = 12x2
-%size(y) = 12x1
+% size(X) = 12x2
+% size(y) = 12x1
 
-%size(Xval) = 21x2
-%size(yval) = 21x1
+% size(Xval) = 21x2
+% size(yval) = 21x1
 
 
 for i = 1:m
